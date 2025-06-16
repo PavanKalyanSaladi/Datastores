@@ -1,1 +1,3 @@
 # Datastores
+
+[Redis](redis.md)

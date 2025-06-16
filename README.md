@@ -1,5 +1,5 @@
 # Datastores
 
-[Redis](redis.md)
-[Keydb](keydb.md)
-[Cassandra](cassandra.md)
+[Redis](redis.md) <br>
+[Keydb](keydb.md) <br>
+[Cassandra](cassandra.md) <br>
